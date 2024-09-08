@@ -21,7 +21,7 @@ repository: "Zij1n/Zij1n.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile_pictures.jpg"
+  avatar: "headshot.jpg"
   name: "Zijin Hu"
   pronouns: # example: "she/her"
   bio: "MSDS '26 | Prev Math & CS Student @ New York University"
